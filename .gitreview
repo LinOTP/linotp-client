@@ -1,0 +1,6 @@
+[gerrit]
+host=harrison
+project=linotp-client
+defaultbranch=master
+defaultremote=origin
+defaultrebase=0
